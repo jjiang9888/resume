@@ -1,0 +1,13 @@
+{
+  "name": "Jack Jiang",
+  "github":"https://github.com/jjiang9888",
+  "email":"jjiang9888@gmail.com",
+  "profession": "spartan",
+  "skillz":"eating, sleeping, coding",
+  "bin": {
+    "resume-me": "./index.js"
+  },
+  "humor":"dry"  
+
+}
+
